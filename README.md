@@ -1,8 +1,8 @@
 # flex-turismos
 ## Projeto desenvolvido no curso de Flexbox da DIO durante o Geração Tech Unimed-BH | Fullstack.
 <div align="center" style="display: inline_block">
-<img src="https://user-images.githubusercontent.com/23384348/174835716-fc1dcbec-c3f8-46d5-a6cf-2ec856c1dd9f.png" alt="Geração Tech Unimed-BH" width="100"/>
-<img src="https://user-images.githubusercontent.com/23384348/172906479-e27d4314-2e91-471c-8f83-61aebc497cfa.png" alt="Geração Tech Unimed-BH" width="100"/>
+<img src="https://user-images.githubusercontent.com/23384348/174835716-fc1dcbec-c3f8-46d5-a6cf-2ec856c1dd9f.png" alt="Geração Tech Unimed-BH" width="200"/>
+<img src="https://user-images.githubusercontent.com/23384348/172906479-e27d4314-2e91-471c-8f83-61aebc497cfa.png" alt="Geração Tech Unimed-BH" width="200"/>
 </div>
 
 ![image](https://user-images.githubusercontent.com/23384348/174834774-d3194b4d-828a-45ca-995e-fe36955144b1.png)
